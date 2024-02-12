@@ -1,1 +1,1 @@
-# Animal-Image-Classification-using-CNN
+# Animal-Image-Classification-using-Convolutionary Neural Networks
