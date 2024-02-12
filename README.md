@@ -1,4 +1,4 @@
-# Animal-Image-Classification-using-Convolutional Neural Networks (CNN)
+# Animal-Image-Classification-using-Convolutional Neural Network (CNN)
 
 
 Link to the Dataset
